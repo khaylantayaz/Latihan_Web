@@ -1,7 +1,7 @@
 ## Latihan_Web
 Website untuk melatih siswa PPLG
 
-## Informasi Project
+**Informasi Project**
 Nama Pembuat:Khayla Natasya Rahman
 Kelas:X PPLG
 Absen:16
