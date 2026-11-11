@@ -13,8 +13,8 @@ Saya adalah siswa jurusan Pengembangan Perangkat Lunak dan Gim yang tertarik pad
 ## Keahlian
 HTML5:
 - Membuat struktur dasar dokumen web (<!DOCTYPE html>).
-- Menggunakan tag dasar seperti paragraf<p>,heading <h1>,dan tautan <a>
-- Membuat daftar (list) dan forrmulir sederhana <flex>
+- Menggunakan tag dasar seperti paragraf,heading,dan tautan.
+- Membuat daftar (list) dan forrmulir sederhana.
   
 CSS3:
 - Mengatur warna teks dan latar belakang (background).
