@@ -15,6 +15,7 @@ HTML5:
 - Membuat struktur dasar dokumen web (<!DOCTYPE html>).
 - Menggunakan tag dasar seperti paragraf (<p>), judul (<h1> - <h6>), gambar (<img>), dan tautan (<a>).
 - Membuat daftar (list) dan formulir sederhana (<form>).
+  
 CSS3:
 - Mengatur warna teks dan latar belakang (background).
 - Mengatur jenis dan ukuran tulisan (font-style, font-size).
@@ -28,7 +29,6 @@ Membuat HTML yaitu Sebuah halaman web statis sederhana yang berisi biodata, jadw
 - HTML5 & CSS3
 - Editor Kode: Visual Studio Code (VS Code)
 - Browser: FireFox
-
 
 ## Tujuan
 - Menyimpan hasil latihan coding materi HTML dan CSS dasar kelas 10.
